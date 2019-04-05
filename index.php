@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "avocode.database.windows.net";
+    $host = "dicodingprojone.database.windows.net";
     $user = "alikhsan778";
     $pass = "Prthelaw07";
     $db = "dicoding_azure_db";
